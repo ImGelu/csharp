@@ -1,0 +1,18 @@
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csprojResolveAssemblyReference.cache
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Form1.resources
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.Cache
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+c:\users\ungur\documents\visual studio 2013\Projects\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Form1.resources
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+E:\Gelu\C#\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.Cache

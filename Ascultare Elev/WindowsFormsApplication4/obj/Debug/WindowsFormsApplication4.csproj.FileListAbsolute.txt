@@ -1,0 +1,18 @@
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Ungur\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Gelu\C#\Ascultare Elev\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

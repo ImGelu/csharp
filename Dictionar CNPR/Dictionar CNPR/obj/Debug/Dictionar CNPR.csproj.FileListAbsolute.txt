@@ -1,0 +1,16 @@
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Dictionar CNPR.exe.config
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Dictionar CNPR.exe
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Dictionar CNPR.pdb
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar CNPR.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar_CNPR.Properties.Resources.resources
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar CNPR.csproj.GenerateResource.Cache
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar CNPR.exe
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar CNPR.pdb
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Words.mdf
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Words_log.ldf
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar_CNPR.AddWords.resources
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar_CNPR.Main.resources
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Dictionar CNPR.exe.manifest
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\bin\Debug\Dictionar CNPR.application
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar CNPR.exe.manifest
+E:\Gelu\C#\Dictionar CNPR\Dictionar CNPR\obj\Debug\Dictionar CNPR.application

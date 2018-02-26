@@ -1,0 +1,22 @@
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\bin\Debug\CNP_Valid.exe.config
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\bin\Debug\CNP_Valid.exe
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\bin\Debug\CNP_Valid.pdb
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\obj\Debug\CNP_Valid.Form1.resources
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\obj\Debug\CNP_Valid.Properties.Resources.resources
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\obj\Debug\CNP_Valid.csproj.GenerateResource.Cache
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\obj\Debug\CNP_Valid.exe
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\obj\Debug\CNP_Valid.pdb
+C:\Users\Ungur\Desktop\CNP_Valid\CNP_Valid\obj\Debug\CNP_Valid.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\CNP Check\CNP_Valid\bin\Debug\CNP_Valid.exe.config
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.exe
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.pdb
+E:\Gelu\C#\CNP Check\CNP_Valid\bin\Debug\CNP_Valid.exe
+E:\Gelu\C#\CNP Check\CNP_Valid\bin\Debug\CNP_Valid.pdb
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.Form1.resources
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.Properties.Resources.resources
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.csproj.GenerateResource.Cache
+E:\Gelu\C#\CNP Check\CNP_Valid\bin\Debug\CNP_Valid.exe.manifest
+E:\Gelu\C#\CNP Check\CNP_Valid\bin\Debug\CNP_Valid.application
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.exe.manifest
+E:\Gelu\C#\CNP Check\CNP_Valid\obj\Debug\CNP_Valid.application

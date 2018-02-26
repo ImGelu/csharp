@@ -1,0 +1,9 @@
+E:\Gelu\C#\Transparent Label\Transparent Label\bin\Debug\Transparent Label.exe.config
+E:\Gelu\C#\Transparent Label\Transparent Label\bin\Debug\Transparent Label.exe
+E:\Gelu\C#\Transparent Label\Transparent Label\bin\Debug\Transparent Label.pdb
+E:\Gelu\C#\Transparent Label\Transparent Label\obj\Debug\Transparent Label.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\Transparent Label\Transparent Label\obj\Debug\Transparent_Label.Form1.resources
+E:\Gelu\C#\Transparent Label\Transparent Label\obj\Debug\Transparent_Label.Properties.Resources.resources
+E:\Gelu\C#\Transparent Label\Transparent Label\obj\Debug\Transparent Label.csproj.GenerateResource.Cache
+E:\Gelu\C#\Transparent Label\Transparent Label\obj\Debug\Transparent Label.exe
+E:\Gelu\C#\Transparent Label\Transparent Label\obj\Debug\Transparent Label.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="Atestat.application" version="1.0.0.1" publicKeyToken="5b312c1d2bc814db" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="Atestat" asmv2:product="Atestat" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://trio.petrurares.ro/app/Atestat.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\Atestat_1_0_0_1\Atestat.exe.manifest" size="7903">
+      <assemblyIdentity name="Atestat.exe" version="1.0.0.1" publicKeyToken="5b312c1d2bc814db" language="neutral" processorArchitecture="msil" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wg/qP6M/GkzVvQ5gSXFMvBOhe20TOKGKWNjq16k9eT8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=GELU\Gelu" issuerKeyHash="b98e23b371b84a0c3f21e6e61c50fa96d2792691" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pafBUzoGIV2ZDZm6Id08ECfiHWVinxY+58N5i6tQSGA=</DigestValue></Reference></SignedInfo><SignatureValue>T2ewB8s5YbtU03H+w6cETOqTefYyRBwwekVeI3e0DKzeoTx2kfuIedH/JRzfk/nTJ6g6GP10xMk5Dg1IL8XKyZC/oHF2H8sFqxr/S01ZgSpdnlnyUsd7fnnG3tVtPqJzeYnMffIhNzt/qNhUu3FUzFn+WINg4EgU3uK14FwKtgk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vq+OnSXmQSjgdPgDSw2JjBWw07ljla/BHNwWJKCUWJNC4FhUBQOJFhGG/N5H0cqJv1RtnEEmyNLLCdBBtuNJWWJwDWwbSd9oTOPwq7PiGZlxgbUsd4vngxpGvQUUVLSuiSCFxRSemGYi6KpCrhzEWphAul7uYdYFiLlONIHa1Fk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="604850ab8b79c3e73e169f62651de227103cdd21ba990d995d21063a53c1a7a5" Description="" Url=""><as:assemblyIdentity name="Atestat.application" version="1.0.0.1" publicKeyToken="5b312c1d2bc814db" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GELU\Gelu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gwLSnJGNzHgYxbIfm12EBe3hPHLCuRxGQUfYfVzLl2c=</DigestValue></Reference></SignedInfo><SignatureValue>t+TdeWi5oMGVksDQxO2qFF1RAxe8dOqf04aX3paO1haVjVyGD17McMb/YMAsbWj/hqjkunpCE2nfo9leqwL9PnbvIEeyzVmIi9/jm+U7LFl9t+RppyHx815/CxCdWYwKRnnK3ahh7LvfRZbpBiyTkaICzksskqpNMTOngQfN3zA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vq+OnSXmQSjgdPgDSw2JjBWw07ljla/BHNwWJKCUWJNC4FhUBQOJFhGG/N5H0cqJv1RtnEEmyNLLCdBBtuNJWWJwDWwbSd9oTOPwq7PiGZlxgbUsd4vngxpGvQUUVLSuiSCFxRSemGYi6KpCrhzEWphAul7uYdYFiLlONIHa1Fk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQfyM20ia5rbtOEc5+RRtRKzANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIARwBFAEwAVQBcAEcAZQBsAHUwHhcNMTcwNTAyMTYzNjIyWhcNMTgwNTAyMjIzNjIyWjAdMRswGQYDVQQDHhIARwBFAEwAVQBcAEcAZQBsAHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL6vjp0l5kEo4HT4A0sNiYwVsNO5Y5WvwRzcFiSglFiTQuBYVAUDiRYRhvzeR9HKib9UbZxBJsjSywnQQbbjSVlicA1sG0nfaEzj8Kuz4hmZcYG1LHeL54MaRr0FFFS0rokghcUUnphmIuiqQq4cxFqYQLpe7mHWBYi5TjSB2tRZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAP7BTrJrqQtgKbQRP36YcB6+8z2PrGYtKZChSgIVjN/BQdSQNC+KgrGsZyyuB2dCtdi2ILepJuf7x8ew5hG5Kl8hsoSW0293N2b5SwOEOQaQG6xpJxpSaCXUT5Ew3vFhOTkLZ+jNSvhu+UayUWspd75QjLsojdpB7j4AK0Ml0cmo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

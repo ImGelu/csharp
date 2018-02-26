@@ -1,0 +1,11 @@
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Gelu\C#\Calculator\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Gelu\C#\Calculator\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Gelu\C#\Calculator\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

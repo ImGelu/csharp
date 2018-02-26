@@ -1,0 +1,26 @@
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\bin\Debug\Dictionar.exe.config
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\bin\Debug\Database.mdf
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\bin\Debug\Database_log.ldf
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\bin\Debug\Dictionar.exe
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\bin\Debug\Dictionar.pdb
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\obj\Debug\Dictionar.Form1.resources
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\obj\Debug\Dictionar.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\obj\Debug\Dictionar.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\obj\Debug\Dictionar.exe
+c:\users\david\documents\visual studio 2013\Projects\Dictionar\Dictionar\obj\Debug\Dictionar.pdb
+C:\Users\Ungur\Desktop\Dictionar\Dictionar\bin\Debug\Dictionar.exe.config
+C:\Users\Ungur\Desktop\Dictionar\Dictionar\obj\Debug\Dictionar.exe
+C:\Users\Ungur\Desktop\Dictionar\Dictionar\obj\Debug\Dictionar.pdb
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\bin\Debug\Dictionar.exe.config
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\obj\Debug\Dictionar.exe
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\obj\Debug\Dictionar.pdb
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\bin\Debug\Database.mdf
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\bin\Debug\Database_log.ldf
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\bin\Debug\Dictionar.exe
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\bin\Debug\Dictionar.pdb
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\obj\Debug\Dictionar.Form1.resources
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\obj\Debug\Dictionar.Properties.Resources.resources
+C:\Users\Ungur\Desktop\C#\Dictionar\Dictionar\obj\Debug\Dictionar.csproj.GenerateResource.Cache
+E:\Gelu\C#\Dictionar\Dictionar\bin\Debug\Dictionar.exe.config
+E:\Gelu\C#\Dictionar\Dictionar\obj\Debug\Dictionar.exe
+E:\Gelu\C#\Dictionar\Dictionar\obj\Debug\Dictionar.pdb

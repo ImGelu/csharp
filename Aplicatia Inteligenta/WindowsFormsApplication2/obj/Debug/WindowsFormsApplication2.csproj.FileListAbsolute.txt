@@ -1,0 +1,14 @@
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.About.resources
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Geografia.resources
+C:\Users\Ungur\Desktop\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Matematica.resources
+E:\Gelu\C#\Aplicatia Inteligenta\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Gelu\C#\Aplicatia Inteligenta\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Gelu\C#\Aplicatia Inteligenta\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

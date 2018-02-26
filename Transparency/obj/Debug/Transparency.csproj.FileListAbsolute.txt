@@ -1,0 +1,8 @@
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\bin\Debug\Transparency.exe.config
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\bin\Debug\Transparency.exe
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\bin\Debug\Transparency.pdb
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\obj\Debug\Transparency.Form1.resources
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\obj\Debug\Transparency.Properties.Resources.resources
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\obj\Debug\Transparency.csproj.GenerateResource.Cache
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\obj\Debug\Transparency.exe
+c:\users\gerge\documents\visual studio 2013\Projects\Transparency\Transparency\obj\Debug\Transparency.pdb

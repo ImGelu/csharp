@@ -1,0 +1,9 @@
+C:\Users\Ungur\Desktop\desen\desen\bin\Debug\desen.exe.config
+C:\Users\Ungur\Desktop\desen\desen\bin\Debug\desen.exe
+C:\Users\Ungur\Desktop\desen\desen\bin\Debug\desen.pdb
+C:\Users\Ungur\Desktop\desen\desen\obj\Debug\desen.csprojResolveAssemblyReference.cache
+C:\Users\Ungur\Desktop\desen\desen\obj\Debug\desen.Form1.resources
+C:\Users\Ungur\Desktop\desen\desen\obj\Debug\desen.Properties.Resources.resources
+C:\Users\Ungur\Desktop\desen\desen\obj\Debug\desen.csproj.GenerateResource.Cache
+C:\Users\Ungur\Desktop\desen\desen\obj\Debug\desen.exe
+C:\Users\Ungur\Desktop\desen\desen\obj\Debug\desen.pdb

@@ -1,0 +1,9 @@
+E:\Gelu\C#\XO\XO\bin\Debug\XO.exe.config
+E:\Gelu\C#\XO\XO\bin\Debug\XO.exe
+E:\Gelu\C#\XO\XO\bin\Debug\XO.pdb
+E:\Gelu\C#\XO\XO\obj\Debug\XO.csprojResolveAssemblyReference.cache
+E:\Gelu\C#\XO\XO\obj\Debug\XO.Form1.resources
+E:\Gelu\C#\XO\XO\obj\Debug\XO.Properties.Resources.resources
+E:\Gelu\C#\XO\XO\obj\Debug\XO.csproj.GenerateResource.Cache
+E:\Gelu\C#\XO\XO\obj\Debug\XO.exe
+E:\Gelu\C#\XO\XO\obj\Debug\XO.pdb
